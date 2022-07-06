@@ -4,7 +4,7 @@ body{
 }
 
 .banner-div{
-    color: #3ff5c7;
+    color: #87e7ff;
     text-align: center; 
     margin-top: 0px;
     padding-top: 200px;
@@ -20,13 +20,14 @@ h1{
 .m-two{
     margin: 0px 670px 50px;
 }
-.button-one{
-    text-align: center;
-    text-decoration: none;
-    background-color: #91e3f7;
-    padding: 10px 12px;
-    border-radius: 5px;
-
+.donate-button{
+        color: #f5e2ff;
+        text-align: center;
+        background-color: #aa0000;
+        text-decoration: none;
+        padding: 10px 15px;
+        border-radius: 10px;
+        
 }
 .top-banner{
     background-image: url(images/donation13.jpg);
@@ -35,4 +36,87 @@ h1{
     width: 100%;
     height: 90vh;
     margin-top: 0px;
+}
+.section-two{
+    margin-top: 200px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+.buttons{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.button-taka{
+    background: #e60000;
+    color: #87e7ff;
+}
+.button-box{
+    font-size: 20px;
+    background-color: #ededed;
+    padding: 20px;
+}
+#button-bx{
+    color: #e60000;
+    font-size: 20px;
+    padding: 20px;
+    background-color: #ffdbdb;
+}
+.plan-flex{
+    margin: 20px 100px;
+    display:flex
+}
+.plan-des{
+    margin: 30px 15px;
+    padding: 60px 10px 60px;
+}
+.color-one{
+    background-color: #d6d6d6;
+}
+.color-two{
+    background-color: #ffbebe;
+}
+.color-three{
+    background-color: beige;
+}
+.sec-flex{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.larger-h{
+    font-size: 35px;
+}
+.box-mail{
+    background-color: #b6e0b0;
+    padding: 50px 60px;
+    margin: 30px 400px;
+}
+#no-gap{
+    margin-left: -5px;
+    color: white;
+    background: #873b84;
+    
+}
+.bottom-head{
+    color: red;
+    font-style: italic;
+    font-size: 40px;
+}
+#white-p{
+    color: white;
+}
+.bottom-part{
+    margin-top: 100px;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
 }
