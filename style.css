@@ -23,11 +23,11 @@ h1{
 .donate-button{
         color: #f5e2ff;
         text-align: center;
-        background-color: #e54222;
+        background-image: linear-gradient(#ff7a7a , #64c9ff);
         text-decoration: none;
         padding: 10px 15px;
         border-radius: 10px;
-        
+       
 }
 .top-banner{
     background-image: url(images/donation13.jpg);
